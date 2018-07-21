@@ -1,0 +1,13 @@
+{ 
+    "_id" : ObjectId("5a960e672c56701c207b9b44"), 
+    "name" : "oongsekkiat", 
+    "email" : "vavaoong@hotmail.com", 
+    "hashed_password" : "b9786f692381d2002f53affe2c49ed28162ea233ec84aa76ece548ce03fdc700e0c282d27520742eac75d1e9d17cefab287dcbfd7a9cb435a4a4c9fac5f74e63", 
+    "salt" : "26jz1gkrtaghv8gv5t8ozigbtsmrl9c", 
+    "education" : "asia pacific univeristy", 
+    "country" : "", 
+    "img_url" : "10137d4c38dd4436fd8eea0d482b96031519784327725.jpeg", 
+    "token" : "384bdeff9bb80d6bbbeadc5362cba53574abe9596c81b18c52b8a1c3b1b93bf98cac933201819faa95e62fa37c826dde682b39f5a7d5183286584d0361532fbf", 
+    "expired_time" : ISODate("2018-02-28T04:20:30.756+0000"), 
+    "__v" : NumberInt(0)
+}
